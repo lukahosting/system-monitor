@@ -4,7 +4,7 @@ System Monitor, gerçek zamanlı olarak sistem izleme bilgilerini görsel olarak
 
 This is a Python application that uses Qt to display real-time system monitoring information, including RAM usage, CPU usage, SSD usage, and CPU temperature.
 
-![Screenshot](screenshot.png)
+![Screenshot](screnshot.png)
 
 ## Requirements
 
